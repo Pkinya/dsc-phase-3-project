@@ -48,3 +48,4 @@ The machine learning models, particularly the hyperparameter-tuned Random Forest
 The hyperparameter-tuned Random Forest, with its optimized parameters, demonstrated robust performance with minimized false positives and false negatives. This makes it a valuable tool for Jaza Telecom in identifying and retaining customers at risk of churning. The models, along with their evaluations, can be utilized for informed decision-making, allowing Jaza Telecom to implement targeted retention strategies and potentially increase profitability.
 
 # dsc-phase-3-project
+# dsc-phase-3-project
